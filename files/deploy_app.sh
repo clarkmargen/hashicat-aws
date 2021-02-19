@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>PUGANTENG GUTOM RULES!!!!!</h2></center>
-  <center>welcome to ${PREFIX}'s app. Pagtumayo hindi kita paa</center>
+  <center>welcome to ${PREFIX}'s app. Pagtumayo hindi kita paa nya</center>
   <!-- END -->
 
   </div>
